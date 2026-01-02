@@ -80,13 +80,8 @@ To allow new quests to spawn, any **incomplete** quests will **expire within 24h
 
 ### Can I transfer my game to a new device?
 
-If your current game is connected to a **Facebook** account, your save data can be easily carried over to a new device. When you install and boot up Seabeard on your new device, you will be prompted to log into your Facebook account. Once logged in, you should be able to pick up where you left off.
+If your current game is connected to a **GameC Center**(iOS) or **Google Play Games** (Android) account, your save data can be easily carried over to a new device. When you install and boot up Seabeard on your new device, you should be able to pick up where you left off. We don´t current support switching from iOS to Android or vice versa. We longer support Facebook, but you can reach out on our <a href="https://discord.gg/2ryHbTKcEEDiscord">Discord channel</a> to ask for help finding your old game data.
 
-### Does Seabeard work with Game Centre / Google Play?
-
-If playing on **iOS** you can also save your game by logging into Game Centre. Your game state will save automatically and synchronise to any device running the same Game Centre account.
-
-Currently **we do not support Google Play**, however we do hope to add this feature in the future.
 
 ### Can I restart my game?
 
@@ -112,8 +107,6 @@ Note that time syncing is currently fixed and cannot be changed once you begin y
 ### Can I I play with friends?
 
 There are currently 3 ways you can share your adventure with friends.
-
-**Facebook** - If you connect your game to a Facebook account, any Facebook friend who is also playing Seabeard will automatically appear in your friends list. To connect a Facebook account tap 'Invite Friends' on the Friends panel, then tap the Facebook button and follow the Facebook dialogue boxes.
 
 **Game Centre (iOS only)** - If you are logged in to Apple's Game Center, those in your Apple network who are already playing Seabeard will also be automatically be added to your friends list.
 
@@ -156,7 +149,7 @@ Unfortunately, Apple does not allow developers to provide refunds directly to pl
 
 ### I have a problem with a purchase (Android)
 
-If for any reason you are not happy with a purchase you made in game (**and you are playing on an Android device**) you can contact HandCircus directly using the form below:
+If for any reason you are not happy with a purchase you made in game (**and you are playing on an Android device**) you can reach out on our <a href="https://discord.gg/2ryHbTKcEEDiscord">Discord channel<a>
 
 ## Updates
 
