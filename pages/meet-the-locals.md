@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Meet the Locals"
-permalink: /meet-the-locals/
+permalink: /meet-the-locals
 ---
 ![Meet the Locals](/img/meet_the_locals_title.png)
 
@@ -37,5 +37,3 @@ Finally a hard-working crew will need somewhere to recharge after all that adven
 Heroes come in all shapes and sizes and although not all the the people who live around the seas of Okabu may have the skills you need on your crew, they are a very friendly (and **generous**!) bunch —so don’t be shy to stop by and say hello!
 
 ![Lorna Crabhoarder, Angler; John Swiftblade, Warrior; Etta Cornelius, Archaeologist; Joe Caster, Miner](/img/citizens.png)
-
-Lorna Crabhoarder, Angler; John Swiftblade, Warrior; Etta Cornelius, Archaeologist; Joe Caster, Miner

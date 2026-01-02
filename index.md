@@ -7,4 +7,4 @@ title: Home
 
 # Ahoy Adventurer!
 
-Welcome to the delightful world of Seabeard. To get started, you can [learn the basics of how to play](how-to-play) or check out the [FAQs](faq).
+Welcome to the delightful world of Seabeard. To get started, you can [learn the basics of how to play](how-to-play) or if you need a bit of help, check out the [FAQs](faq).

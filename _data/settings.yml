@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'How to Play',  url: 'how-to-play'}
 - {name: 'FAQs', url: 'faq'}
 - {name: 'Who is Seabeard?',     url: 'who-seabeard'}
+- {name: 'How to Play',  url: 'how-to-play'}
 - {name: 'Meet the Locals',     url: 'meet-the-locals'}
 - {name: 'Level Up',      url: 'level-up'}
 

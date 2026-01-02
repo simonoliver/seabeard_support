@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How To Play
-permalink: /how-to-play/
+permalink: /how-to-play
 ---
 
 # Getting Around
@@ -53,8 +53,6 @@ There are a number of Daily Jobs you can sign up for and you’ll be **rewarded*
 
 ![Lighthouse](/img/lighthouse.jpg)
 
-Keep in mind that **you'll need to log b![[HowToPlay_Img_8.png|Adventure.png]] to enjoy Seabeard is to remember…
-
 ![Daily Job Rewards](/img/HowToPlay_Img_6.png)
 
 You can build up bigger rewards if you keep up the job every day. 
@@ -67,6 +65,6 @@ Keep in mind that you'll need to **log back with the relevant Task Master every 
 
 ![Side Quest](/img/HowToPlay_Img_8.png)
 
-### …it's the not about the destination, it's about the journey!: )
+### …it's the not about the destination, it's about the journey!
 
 [Meet the locals](/meet-the-locals)

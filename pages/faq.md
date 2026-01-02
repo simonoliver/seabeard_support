@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQs
-permalink: /faq/
+permalink: /faq
 ---
 
 ![Seabeard Lost](/img/seabeard_lost.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Level Up
-permalink: /level-up/
+permalink: /level-up
 ---
 
 There are lots of skills to pick up and perfect while on your adventure. Be sure to make regular stops at your **home island** to check on the progress of your **traders** and **crew** —you can also **showcase your triumphs** to other visiting players!
