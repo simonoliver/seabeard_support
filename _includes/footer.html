@@ -1,0 +1,8 @@
+<footer class="footer">
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endfor %}
+  <div class="footer-description">
+    You can find additional support (and the odd insider secret!) by joining our community <a href="https://discord.gg/2ryHbTKcEEDiscord">Discord channel<a>
+    </div>
+</footer>
